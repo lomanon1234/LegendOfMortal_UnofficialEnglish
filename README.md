@@ -4,7 +4,7 @@ Unofficial English patch for Legend of Mortal made with LLMs
 
 # Install
 
-1. Download LegendOfMortal-English-<version>.zip from Releases.
+1. Download LegendOfMortal-English.zip for your version from Releases.
 2. From Steam, go to Legend of Mortal in your Library, then the gear > Manage > Browse local files.
 3. Extract the zip into that folder, so that winhttp.dll and the BepInEx folder sit next to Mortal.exe.
 4. Start the game.
