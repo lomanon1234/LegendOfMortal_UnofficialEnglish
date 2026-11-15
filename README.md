@@ -9,6 +9,12 @@ Unofficial English patch for Legend of Mortal made with LLMs
 3. Extract the zip into that folder, so that winhttp.dll and the BepInEx folder sit next to Mortal.exe.
 4. Start the game.
 
+# Updating
+
+Follow the Install instructions with the latest zip file, and overwrite files when asked. 
+
+Note: If you have modified the config of BepinEx or doorstop_config, this will overwrite them.
+
 # Credits and references
 
 - Based on the runtime and supporting files of Lash's English Patch
